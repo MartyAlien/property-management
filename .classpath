@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/mchange-commons-java-0.2.12.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.18.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/aliyun-java-sdk-core-3.2.8.jar" sourcepath="C:/Users/16236/.m2/repository/com/aliyun/aliyun-java-sdk-core/3.2.8/aliyun-java-sdk-core-3.2.8-sources.jar"/>
+	<classpathentry kind="lib" path="lib/aliyun-java-sdk-dysmsapi-1.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/aliyun-java-sdk-dysmsapi-1.1.0.jar" sourcepath="C:/Users/16236/.m2/repository/com/aliyun/aliyun-java-sdk-dysmsapi/1.1.0/aliyun-java-sdk-dysmsapi-1.1.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
