@@ -13,6 +13,7 @@ public class DruidJDBC {
 		Properties properties=new Properties();
 		try {
 			DruidJDBC.class.getClassLoader();
+			// 访问本地的数据库
 			properties.load(ClassLoader.getSystemResourceAsStream("cnf/druidJDBC.properties"));
 			dataSource = DruidDataSourceFactory.createDataSource(properties);
 		} catch (Exception e) {
